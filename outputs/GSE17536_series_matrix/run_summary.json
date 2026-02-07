@@ -1,0 +1,17 @@
+{
+  "series_title": "Metastasis Gene Expression Profile Predicts Recurrence and Death in Colon Cancer Patients (Moffitt Samples)",
+  "label_column": "dfs_event (disease free survival; cancer recurrence)",
+  "label_positive": "recurrence",
+  "label_negative": "no recurrence",
+  "n_samples": 145,
+  "n_features_original": 54675,
+  "n_features_after_variance_filter": 49207,
+  "variance_percentile": 10.0,
+  "top_k": 100,
+  "freq_threshold": 0.6,
+  "n_eval_seeds": 5,
+  "class_balance": {
+    "0": 109,
+    "1": 36
+  }
+}

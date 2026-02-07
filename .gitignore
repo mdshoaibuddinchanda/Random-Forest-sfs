@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Checkpoints
+checkpoints/
+
+# Raw/processed data
+data/Raw/
+data/Processed/
+
+# OS files
+.DS_Store
